@@ -1,0 +1,13 @@
+Key up, down, left and right or mouse drag: Rotate object
+Key W, A, S, D: Move object
+Key J, K: Move Z axis
+Key N and M or mouse wheel: Scale object
+Key X: Render points
+Key C: Render lines
+Key V: Render triangles
+Key B: Render quads
+Key Z: Toggle between lines and fill
+Key Q: Toggle between textures and colors
+Key E: Change texture
+Key R: Toggle background
+Key T: Change background
